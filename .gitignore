@@ -1,2 +1,5 @@
 # ignore .exe files
 *.exe
+
+# ignore all the classes of java
+*.class
