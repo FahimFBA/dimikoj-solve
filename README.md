@@ -14,3 +14,7 @@
 - Problem 02 ------------- [Question](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2002/Question.md) ------------- [Answer in C](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2002/solve.c)
 
 - Problem 03 ------------- [Question](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2003/Question.md) ------------- [Answer in C](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2003/solve.c) -------------------- [Answer in C++](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2003/solve.cpp)
+
+- Problem 04 ------------- [Question](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2004/Question.md) ------------- [Answer in C](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2004/solve.c) -------------------- [Answer in C++](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2004/solve.cpp)
+
+- Problem 69 ------------- [Question](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2069/Question.md) ------------- [Answer in C](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2069/solve.c) -------------------- [Answer in C++](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2069/solve.cpp) -------------------- [Answer in Python](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2069/solve.py) -------------------- [Answer in Java](https://github.com/FahimFBA/dimikoj-solve/blob/main/Problem%2069/solve.java)
